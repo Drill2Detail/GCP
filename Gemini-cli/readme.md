@@ -142,3 +142,5 @@ To verify the installation was successful, check the version or run a simple pro
 ```bash
 gemini --version
 ```
+
+[Github repo link](https://github.com/https-deeplearning-ai/sc-gemini-cli-files)
